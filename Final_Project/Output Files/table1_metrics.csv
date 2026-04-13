@@ -1,0 +1,5 @@
+Metric,Value
+Pruned RMSD (77 atom pairs),0.775 Å
+Overall RMSD (257 atom pairs),8.280 Å
+Sequence identity (non-gap columns),18.98%
+Sequence identity (shorter length),14.81%
